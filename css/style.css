@@ -1,0 +1,13 @@
+@import url("component/cards.css");
+@import url("component/titles.css");
+@import url("component/images.css");
+@import url("component/button.css");
+@import url("component/texte+image.css");
+@import url("component/container.css");
+
+body {
+    margin: 0;
+}
+p {
+    margin: 0;
+}

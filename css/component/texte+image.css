@@ -1,0 +1,11 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.183);
+    width: 100vw;
+    
+}

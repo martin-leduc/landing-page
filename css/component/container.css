@@ -1,0 +1,60 @@
+.container {
+    width: 100vw;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+
+.Modèles-A{
+    text-decoration: none;
+    background-color: #212121;
+    padding: 8px 10px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif ;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+.Modèles-Q{
+    text-decoration: none;
+    background-color: #212121;
+    padding: 8px 10px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif ;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.Modèles-E-tron{
+    text-decoration: none;
+    background-color: #212121;
+    padding: 8px 10px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif ;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.Modèles-Sport{
+    text-decoration: none;
+    background-color: #212121;
+    padding: 8px 10px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif ;
+    font-weight: bold;
+    font-size: 20px;
+}
+a {
+    text-decoration: none;
+}

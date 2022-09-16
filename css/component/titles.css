@@ -1,0 +1,15 @@
+.Audi {
+    color: black;
+    font-family: serif;
+}
+.banner{
+    padding-right: 50px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.banner h3 {
+    margin: 0;
+}
